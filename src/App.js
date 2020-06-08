@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 // import Hi from './component/Props';
 // import MediaCard from './component/MediaCard';
 // import Flip from './component/FlipColor';

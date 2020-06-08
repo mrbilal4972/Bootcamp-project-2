@@ -5,7 +5,7 @@ function MediaCard({title, body, imageURL}) {
     <div>
         <h2>{title}</h2>
         <p>{body}</p>
-        <img src={(imageURL)} />
+        <img src={(imageURL)} alt='iamge' />
     </div>
   )
 }
